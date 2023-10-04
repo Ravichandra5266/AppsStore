@@ -1,0 +1,12 @@
+.tab-items {
+  margin: 10px;
+}
+.tab-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: bold;
+}
+.active {
+  color: #2563eb;
+}
